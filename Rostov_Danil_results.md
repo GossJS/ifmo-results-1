@@ -1,4 +1,4 @@
-[Heroku app](https://calm-wave-51831.herokuapp.com/)
+[Портфолио](https://calm-wave-51831.herokuapp.com/)
 
 ***
 
