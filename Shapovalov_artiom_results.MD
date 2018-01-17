@@ -1,7 +1,7 @@
-Шаповалов Артём
+РЁР°РїРѕРІР°Р»РѕРІ РђСЂС‚РµРј
 
-Портфолио на Heroku
+РџРѕСЂС‚С„РѕР»РёРѕ РЅР° Heroku
 https://web-report.herokuapp.com/
 
-Презентация
+РџСЂРµР·РµРЅС‚Р°С†РёСЏ
 https://docs.google.com/presentation/d/1JslwupszLqI9k6TUvZ55dvG_ISqGAYDux2c6xMCdWCo
